@@ -20,4 +20,5 @@ from fgapp import views
 
 urlpatterns = [
     path('hello',views.hello),
+    path('home',views.home),
 ]
